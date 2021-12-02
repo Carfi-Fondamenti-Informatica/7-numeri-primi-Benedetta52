@@ -1,5 +1,7 @@
 
 #include "lib.h"
+
+
  bool numeroPrimo(int a){
     bool primo = true;
     for (int i=2 ; i < a; i++){
